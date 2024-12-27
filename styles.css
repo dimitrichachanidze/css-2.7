@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#colorDiv {
+    margin: 0 auto;
+    margin-top: 226px;
+    padding: 96px;
+    max-width: 1604px;
+    width: 100%;
+    background-color: #1B0E0F;
+}
+
+#colorDivTwo {
+    max-width: 1512px;
+    padding: 96px 66px;
+    background-color: #fff;
+}
+
+#ourBlogDiv {
+    margin-bottom: 12px;
+}
+
+#ourBlog {
+    text-align: center;
+    color: #002AFE;
+    font-size: 16px;
+}
+
+#headDiv {
+    margin-bottom: 24px;
+}
+
+#head {
+    text-align: center;
+    color: #181D27;
+    font-size: 48px;
+}
+
+#headParagraphDiv {
+    margin-bottom: 56px;
+}
+
+#headParagraph {
+    text-align: center;
+    color: #535862;
+    font-size: 20px;
+}
+
+.mainContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 56px;
+}
+
+.meoreDiv{
+    max-width: 584px;
+    display: inline-block;
+    margin-left: 92px;
+    vertical-align: middle;
+}
+
+
+.miniText {
+    color: #6941C6;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.imgDiv {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.headElement {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+    display: inline-block;
+    
+}
+
+.arrowUp {
+    display: inline-block;
+    vertical-align: sub;
+    padding-left: 16px;
+}
+
+.bigText {
+    color: #535862;
+    font-size: 16px;
+    max-width: 535px;
+    margin-bottom: 24px;
+}
+
+.gogona {
+    display: inline-block;
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+.girlName {
+    
+    color: #181D27;
+    font-size: 14px;
+}
+
+.dateTime {
+    margin-top: 4px;
+    font-size: 14px;
+    color: #535862;
+}
+
+.miniContainer {
+    max-width: 130px;
+}
+
+.static {
+    display: inline-block;
+    vertical-align: -webkit-baseline-middle;
+    margin-left: 8px;
+}
+
+#miniiContainer {
+    display: inline-block;
+    margin-left: 8px;
+    vertical-align: -webkit-baseline-middle;
+}
+
+#miniiiContainer {
+    display: inline-block;
+    margin-left: 8px;
+    vertical-align: -webkit-baseline-middle;
+}
